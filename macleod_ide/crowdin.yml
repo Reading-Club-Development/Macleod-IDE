@@ -1,0 +1,15 @@
+# ----------------------------------------------------------------------------
+# Copyright © 2023, Reading Club Development
+#
+# Licensed under the terms of the GNU General Public License v3
+# ----------------------------------------------------------------------------
+
+commit_message: '[ci skip] New %language% translation from Crowdin'
+append_commit_message: false
+files:
+  - source: /macleod_ide/spyder/locale/macleod_ide.pot
+    translation: /macleod_ide/macleod_ide/locale/%two_letters_code%/LC_MESSAGES/%file_name%.po
+    languages_mapping:
+      two_letters_code:
+        pt-BR: pt_BR
+        zh-CN: zh_CN
