@@ -1,0 +1,10 @@
+check-manifest
+codecov
+pytest
+pytest-cov
+pytest-qt
+recommonmark
+qtawesome
+qtpy
+setuptools
+spyder
