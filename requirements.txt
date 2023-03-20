@@ -8,3 +8,4 @@ qtawesome
 qtpy
 setuptools
 spyder
+black
