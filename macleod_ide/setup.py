@@ -20,6 +20,8 @@ setup(
     author="Reading Club Development",
     author_email="jesiah.harris4@gmail.com",
     description="An IDE plugin for the macleod parser",
+    long_description="A plugin for the macelod parser designed for use in the Spyder IDE",
+    long_description_content_type="text/markdown",
     license="GNU General Public License v3",
     url="https://github.com/jesiahharris/macleod_ide",
     python_requires='>= 3.7',
