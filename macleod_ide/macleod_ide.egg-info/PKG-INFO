@@ -19,5 +19,8 @@ Classifier: Intended Audience :: Science/Research
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Scientific/Engineering
 Requires-Python: >= 3.7
+Description-Content-Type: text/markdown
 License-File: LICENSE.txt
 License-File: AUTHORS.md
+
+A plugin for the macelod parser designed for use in the Spyder IDE

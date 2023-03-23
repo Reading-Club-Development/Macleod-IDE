@@ -31,7 +31,7 @@ class MacleodIdeStatus(BaseTimerStatus):
 
     def __init__(self, parent):
         super().__init__(parent)
-        self.value = "25:00"
+        self.value = ""
 
     def get_tooltip(self):
         """Override api method."""
