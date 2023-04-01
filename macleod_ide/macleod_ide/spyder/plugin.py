@@ -10,7 +10,6 @@ macleod_ide Plugin.
 
 # Third-party imports
 import qtawesome as qta
-import macleod_eureka.parserlib as mac 
 
 # Spyder imports
 from spyder.api.plugins import Plugins, SpyderPluginV2
