@@ -23,7 +23,7 @@ If this results in an error or does not update Spyder to the latest version, try
 The macleod_ide plugin is available via test.pypi.org
 
 The plugin can be installed using pip as follows:
-`pip install -i https://test.pypi.org/simple/ macleod-ide`
+`pip install macleod-ide`
 
 ### **Set up a development environment:**
 In principle, we could use any Spyder installed within a [conda environment](https://conda.io/projects/conda/en/latest/user-guide/concepts/environments.html#virtual-environments) according to the instructions given in the [installation guide](https://docs.spyder-ide.org/5/installation.html).
